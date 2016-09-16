@@ -1,0 +1,8 @@
+{
+  "name": "doublecheck",
+  "version": "1.0.0",
+  "description": "Runtime errors for everybody!",
+  "main": "index.js",
+  "author": "Brandon Parmenter <leftiness@gmail.com>",
+  "license": "MIT"
+}
